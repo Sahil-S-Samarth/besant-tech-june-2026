@@ -1,0 +1,11 @@
+git init 
+git status
+git clone
+git add <filename>
+git -v
+git --version
+git config --list
+git config --global user.name <enter username>
+git config --global user.email <enter user email address>
+git commit -m "commit message"
+git push
