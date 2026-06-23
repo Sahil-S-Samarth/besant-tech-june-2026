@@ -4,3 +4,4 @@ third line in the file1.txt
 fourth line in the file1.txt
 fifth line in the file1.txt
 sixth line in the file1.txt
+adding seventh line in file1.txt
